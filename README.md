@@ -25,20 +25,26 @@ Maksimal 7 Hari setelah soal diberikan. **Lebih cepat lebih baik**
 ### Detail Tentang Aplikasi
 
 <hr>
-Aplikasi ini adalah aplikasi untuk pendataan produk dan memiliki fitur sebagai berikut.
-1.CRUD untuk Supplier.
-- Implementasikan operasi Create, Read, Update, dan Delete untuk Supplier.
-2.CRUD untuk Kategori.
-- Implementasikan operasi Create, Read, Update, dan Delete untuk Kategori.
-3.CRUD untuk Produk:
-- Implementasikan operasi Create, Read, Update, dan Delete untuk Produk.
-- Pada form produk, sertakan field untuk memilih Supplier dan Kategori.
-- Pastikan setiap produk terhubung dengan satu Supplier dan satu Kategori.
-4.CRUD untuk Warehouse: 
-- Tambahkan fitur untuk mengelola produk di setiap warehouse: 
-   a. Menambahkan produk ke warehouse.
-   b. Menghapus produk dari warehouse.
-   c. Menampilkan daftar produk yang tersedia di setiap warehouse.
+
+Aplikasi ini adalah aplikasi untuk pendataan produk dan memiliki fitur sebagai berikut:
+
+1. CRUD untuk Supplier
+   - Implementasikan operasi Create, Read, Update, dan Delete untuk Supplier.
+
+2. CRUD untuk Kategori
+   - Implementasikan operasi Create, Read, Update, dan Delete untuk Kategori.
+
+3. CRUD untuk Produk
+   - Implementasikan operasi Create, Read, Update, dan Delete untuk Produk.
+   - Pada form produk, sertakan field untuk memilih Supplier dan Kategori.
+   - Pastikan setiap produk terhubung dengan satu Supplier dan satu Kategori.
+
+4. CRUD untuk Warehouse
+   - Implementasikan operasi Create, Read, Update, dan Delete untuk Warehouse.
+   - Tambahkan fitur untuk mengelola produk di setiap warehouse:
+     a. Menambahkan produk ke warehouse.
+     b. Menghapus produk dari warehouse.
+     c. Menampilkan daftar produk yang tersedia di setiap warehouse.
 
 ### Challenge Detail
 
